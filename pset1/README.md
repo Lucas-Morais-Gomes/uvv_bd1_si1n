@@ -4,8 +4,6 @@
 
 **Nome:** Lucas Morais Gomes
 
-**Matricula:** 202305638
-
 **Professor:** Abrantes Araújo Silva Filho
 
 **Monitora:** Suellen Miranda Amorim
