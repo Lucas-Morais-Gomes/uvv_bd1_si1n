@@ -12,7 +12,7 @@
 
 ## Descrição Geral
 
-Este trabalho é uma atividade pontuada com intenção de implementar um banco de dados no PostgreSQL, a partir de um diagrama relacional, e escrever códigos SQL para gerar diversos relatórios, através de uma máquina virtual criada pelo próprio professor. Com este objetivo algumas habilidades foram usadas nesse trabalho como: o entendimento sobre sistema de controle de versões com Git e Github, conhecimentos em PostgreSQL e SQL.
+Este trabalho é uma atividade pontuada com intenção de implementar um banco de dados no PostgreSQL, a partir de um diagrama relacional, e escrever códigos SQL para gerar diversos relatórios, por meio de uma máquina virtual criada pelo próprio professor. Com este objetivo algumas habilidades foram usadas nesse trabalho como: o entendimento sobre sistema de controle de versões com Git e Github, conhecimentos em PostgreSQL e SQL.
 
 O repositório contém os seguintes diretórios e subdiretórios:
 
@@ -22,7 +22,7 @@ O repositório contém os seguintes diretórios e subdiretórios:
 
 ### Pset1
 
-Contém arquivos e subdiretorios com os itens relacionados ao trabalho Pset1.
+Contém arquivos e subdiretórios com os itens relacionados ao trabalho Pset1.
 
 #### Subdiretório SQL Power Architect
 
@@ -37,7 +37,7 @@ Contém os Scripts Globais em PostgreSQL e Mariadb, feitos no DBeaver, para que 
 
 Além dos diretórios mencionados acima, este repositório também contém outros arquivos importantes, como:
 
-- `lojas-uvv.png`: Arquivo imagem demonstrando o diagrama do projeto lógico base para esse trabalho.
+- `lojas-uvv.png`: arquivo imagem demonstrando o diagrama do projeto lógico base para esse trabalho.
 
 ## Contribuição
 
