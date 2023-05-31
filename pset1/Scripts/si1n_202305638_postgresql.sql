@@ -1,4 +1,4 @@
--- Deletando possiveis banco de dados, usuários e schemas com o mesmo nome.
+-- Excluindo quaisquer bancos de dados, usuários e esquemas que possam ter o mesmo nome.
 DROP 				DATABASE 
 IF EXISTS 			uvv;
 
@@ -8,14 +8,14 @@ IF EXISTS 			lucas_morais;
 DROP SCHEMA 
 IF EXISTS 			lojas;
 
--- Criação do usuário que será o dono do Banco de Dados.
+-- Realizando a criação do usuário que será responsável pelo banco de dados.
 CREATE USER 		lucas_morais WITH 
 					SUPERUSER
 					CREATEDB
 					CREATEROLE
 					ENCRYPTED PASSWORD 'pass';
 				
--- Criando Bando de Dados.
+-- Criando Banco de Dados.
 CREATE 				DATABASE uvv
 					OWNER = 		lucas_morais
 					TEMPLATE = 		template0
@@ -24,8 +24,10 @@ CREATE 				DATABASE uvv
 					LC_CTYPE =		'pt_BR.UTF-8'
 					ALLOW_CONNECTIONS = 	TRUE;
 				   
--- Conectando ao Banco de Dados "uvv".
-\c 					uvv;
+-- Estabelecendo conexão com o banco de dados "uvv".
+\c "dbname=uvv user=lucas_morais password=pass";
+
+SELECT CURRENT_USER;
 
 -- Criando o Esquema.
 CREATE SCHEMA 		lojas 
