@@ -14,8 +14,7 @@ GRANT CREATE, CREATE ROUTINE, CREATE VIEW, SHOW VIEW ON *.* TO 		'lucas_morais'@
 
 -- Criando Bando de Dados
 CREATE DATABASE 			uvv 
-CHARACTER SET 				utf8mb4 
-COLLATE 				utf8mb4_unicode_ci;
+CHARACTER SET 				'utf8';
 
 
 GRANT ALL PRIVILEGES ON 	uvv.* 
