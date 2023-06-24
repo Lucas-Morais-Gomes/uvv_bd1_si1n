@@ -14,12 +14,12 @@ Este trabalho é uma atividade pontuada com intenção de implementar um banco d
 
 O repositório contém os seguintes diretórios e subdiretórios:
 
-- **Pset1**
+- **Trabalho_Integrado_UVV**
   - **Subdiretório SQL Power Architect**: Contém os arquivos gerados ao utilizar o software SQL Power Architect.
   - **Subdiretório Scripts**: Contém todos os scripts.sql que criados como objetivo desse trabalho.
   - **Subdiretório BrModelo**: Contém os arquivos gerados ao utilizar o software BrModelo.
 
-### Pset1
+### Trabalho_Integrado_UVV
 
 Contém arquivos e subdiretórios com os itens relacionados ao trabalho integrado.
 
