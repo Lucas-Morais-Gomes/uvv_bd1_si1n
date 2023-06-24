@@ -3,6 +3,8 @@
 # Trabalho Integrado
 
 **Nome:** Lucas Morais Gomes
+**Nome:** Lucas Xavier Da Silva
+**Nome:** Arthur Velemem Dos Santos
 
 **Professor:** Abrantes Araújo Silva Filho
 
