@@ -1,6 +1,6 @@
 **Título: Trabalho Integrado**
 
-# Trabalho Integradi
+# Trabalho Integrado
 
 **Nome:** Lucas Morais Gomes
 
